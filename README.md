@@ -23,7 +23,9 @@ Such as,
 hostname/api/products?id=12&cost=5
 
 
+
 2)For posting data(POST): hostname/api/products
+
 
 
 3) for UPDATE and DELETE: hostname/api/products/id/{id}
