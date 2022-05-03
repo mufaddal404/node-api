@@ -28,4 +28,4 @@ hostname/api/products?id=12&cost=5
 
 
 
-3) for UPDATE and DELETE: hostname/api/products/id/{id}
+3)For UPDATE and DELETE: hostname/api/products/id/{id}
